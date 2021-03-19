@@ -90,6 +90,6 @@ in the src folder
 4 - resources folder that contains chrome driver
 5 - test cases folder that contain an excel sheet that cover all the positive and negative scenarios for the "Registration”, "Login" and “Cart Checkout” Modules
 6 - POM.xml file contains maven dependencies.
-5 - UiTest.xml file contains the UI scenarios.
-6 - ApiTest.xml file contains the API scenarios.
+7 - UiTest.xml file contains the UI scenarios.
+8 - ApiTest.xml file contains the API scenarios.
 ```
